@@ -58,5 +58,6 @@ namespace GiaTriVaThamChieu
         public string Ten;
         public int Tuoi;
         public string DiaChi;
+
     }
 }

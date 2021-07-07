@@ -17,6 +17,7 @@ namespace Buoi4
             Console.WriteLine(luong1);
 
 
+
         }
     }
 }
