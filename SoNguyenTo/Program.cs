@@ -29,6 +29,7 @@ namespace SoNguyenTo
                 else
                 {
                     Console.WriteLine("So da cho khong la so Nguyen To: ");
+
                 }
             } 
         }
